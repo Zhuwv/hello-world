@@ -1,2 +1,4 @@
 # hello-world
-this my first code
+this my first repository on GitHub
+
+i like :coffee: :dancer:
